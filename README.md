@@ -1,3 +1,7 @@
+### 맛집,카페 지도
+## javascript, typescript
+## 카카오 api를 활용 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
